@@ -13,3 +13,4 @@ NLP is an area of artificial intelligence focused on allowing computers to under
 
 ### Word2vec
 Word2vec, a brainchild of a team of researchers led by Google’s Tomas Mikolov, is one of the most popular models used to create word embeddings. Word2vec has two primary methods of contextualizing words: the Continuous Bag-of-Words model (CBOW) and the Skip-Gram model, which i will summarize in this post. Both models arrive at a similar conclusion, but take nearly inverse paths to get there.
+
